@@ -11,8 +11,8 @@
     font-size: 50px;
     margin-bottom: 30px;
     font-family: 'bangers';
-    color: rgb(255, 238, 0);
-    text-shadow: 1px 1px 5px black;
+    color: rgb(255, 153, 0);
+    text-shadow: 1px 1px 2px black;
 }
 
 img {
@@ -41,6 +41,16 @@ img {
     max-width: 300px;
     font-size: 25px;
     padding: 10px;
+}
+
+.numbers {
+    font-size: 30px;
+    font-family: 'patrick hand';
+    padding: 10px;
+    color: rgb(255, 72, 0);
+    text-align: left;
+    position: relative;
+    left: 550px;
 }
 
 p {
